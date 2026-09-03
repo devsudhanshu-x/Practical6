@@ -14,8 +14,8 @@ To learn and practice Git and GitHub commands for version control and repository
 ## Commands Used
 
 ```bash
-git config --global user.name "Your Name"
-git config --global user.email "your-email@gmail.com"
+git config --global user.name "devsudhanshu-x"
+git config --global user.email "sudhanshusinghh9@gmail.com"
 
 git init
 git status
